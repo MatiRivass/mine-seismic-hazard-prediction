@@ -1,0 +1,10 @@
+{
+  "umbral": 0.5632874527148055,
+  "columnas": [
+    "nbumps",
+    "energy",
+    "genergy",
+    "nbumps2",
+    "gpuls"
+  ]
+}
